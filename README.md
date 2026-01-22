@@ -1,4 +1,4 @@
-# 📊 Product Analitical Technical Task 
+# 📊 Product Analytics Technical Case — A/B Testing & LTV Modeling
 
 ### 👩‍💻 Prepared by: Nataliia Yarema  
 📧 **Email:** yarema.analytics@gmail.com  
