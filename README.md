@@ -1,4 +1,4 @@
-# 📊 KissMyApp Technical Task 
+# 📊 Product Analitical Technical Task 
 
 ### 👩‍💻 Prepared by: Nataliia Yarema  
 📧 **Email:** yarema.analytics@gmail.com  
@@ -25,10 +25,10 @@ Estimate historical Lifetime Value and predict **52-week LTV** using cohort-base
 
 | Module | Description |
 |--------|-------------|
-| [🧪 A/B Testing](KissMyApps_AB_Test.ipynb) | Conversion Rate experiment between monthly vs weekly subscription pricing |
-| [📑 Executive A/B Testing Reporting](KissMyApps_AB_Test_Executive_Summary.pdf) | Business-oriented PDF summaries for stakeholders | 
-| [📉 LTV Modeling](KissMyApps_LTV_Prediction.ipynb)| Cohort-based LTV calculation and 52-week prediction |
-| [📑 Executive LTV Modeling Reporting](KissMyApps_LTV_Prediction_Executive_Summary.pdf) | Business-oriented PDF summaries for stakeholders |
+| [🧪 A/B Testing](AB_TestTask.ipynb) | Conversion Rate experiment between monthly vs weekly subscription pricing |
+| [📑 Executive A/B Testing Reporting](AB_TestTask_Executive_Summary.pdf) | Business-oriented PDF summaries for stakeholders | 
+| [📉 LTV Modeling](LTV_Prediction_TestTask.ipynb)| Cohort-based LTV calculation and 52-week prediction |
+| [📑 Executive LTV Modeling Reporting](LTV_Prediction_TestTask_Executive_Summary.pdf) | Business-oriented PDF summaries for stakeholders |
 
 ---
 
