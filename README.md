@@ -15,6 +15,7 @@ It includes end-to-end product analytics workflow: data cleaning and preparation
 
 Evaluate whether **weekly subscription pricing ($2.99)** outperforms the **monthly plan ($5.99)** in terms of conversion and revenue.
 ![A-B-testing](ab_test_result.png)
+---
 
 Estimate historical Lifetime Value and predict **52-week LTV** using cohort-based modeling.
 ![LTV Prediction Curve](ltv_actual_vs_predict.png)
